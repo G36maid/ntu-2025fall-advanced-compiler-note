@@ -27,6 +27,16 @@ This repository contains organized notes for the NTU 2025 Fall Advanced Compiler
 ### Week 6 - 10/10: Holiday
 no class and notes
 
+### Week 7 - 10/17
+- [淺談編譯器最佳化](./notes/10-talk-on-compiler-optimization.md)
+- [Compiler Optimization](./notes/11-compiler-optimization.md)
+
+### Week 8 - 10/24 Holiday
+
+### Week 9 - 10/31 Midterm
+
+### Week 10 - 11/7
+
 ## Original Course Materials
 
 The original course files are located in the `course-materials/` directory.
