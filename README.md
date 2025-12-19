@@ -36,6 +36,8 @@ no class and notes
 ### Week 9 - 10/31 Midterm
 
 ### Week 10 - 11/7
+- [Bridgers' LLVM IR Tutorial](./notes/12-llvm-ir-tutorial.md)
+- [Vectorization in LLVM: SLP & Custom Instructions](./notes/13-vectorization-in-llvm.md)
 
 ## Original Course Materials
 
